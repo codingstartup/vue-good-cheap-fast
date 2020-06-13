@@ -1,24 +1,44 @@
-# vue-good-cheap-fast
+# Vue - Good Cheap Fast
 
-## Project setup
+This project is created by **CodingStartup** as a tutorial. Tutorial video can be found here:
+- YouTube: [https://www.youtube.com/watch?v=r9SCsWb52Bo](https://www.youtube.com/watch?v=r9SCsWb52Bo)
+- BiliBili: [https://www.bilibili.com/video/BV1aZ4y1W7yG](https://www.bilibili.com/video/BV1aZ4y1W7yG)
+
+## Installation
+
+Ensure you have a recent version of [node & npm](https://nodejs.org/en/download/) or [yarn](https://yarnpkg.com/en/docs/install) installed.
+
+All of the following steps run on the command line within this directory. You can substitute `npm` for `yarn` depending on your preferences.
+
+Install all the necessary packages:
+
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## Build
 
-### Compiles and minifies for production
+To build for distribution:
+
 ```
 npm run build
 ```
 
-### Lints and fixes files
+All of the final output will be dropped into the [/dist/](./dist) folder.
+
+## Server
+
+Run a local server that will automatically compile your code & refresh when you save a change!
+
 ```
-npm run lint
+npm run serve
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+---
+
+## CodingStartup Channels
+
+Please subscribe to my channel, thank you for your support!
+
+- YouTube Channel: [https://www.youtube.com/codingstartup](https://www.youtube.com/codingstartup)
+- BiliBili Channel: [https://space.bilibili.com/451368848](https://space.bilibili.com/451368848)
